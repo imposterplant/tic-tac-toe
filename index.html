@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe Game </title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+    <script src="data.js" defer></script>
+</head>
+
+<body>
+
+    <div class="logo-container">
+        <img src="./public/images/tic-tac-toe_480.png" class="logo">
+        <h1>Tic Tac Toe Game</h1>
+    </div>
+
+
+<main>
+
+
+    <header id="header">
+        <div class="player player-active"
+        id="xPlayerDisplay"
+        onclick="choosePlayer('X')">
+        X
+        </div>
+        <h3 id="titleHeader">Choose</h3>
+        <div class="player"
+        id="oPlayerDisplay"
+        onclick="choosePlayer('O')">
+        O
+        </div>
+    </header>
+
+    <div id="board">
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+
+    <button id="restartBtn">
+        Restart
+    </button>
+
+    <h2>Instructions </h2>
+    <ul>
+        <li> Player X goes first. Player O follows after. </li>
+        <li> First player to align three of their marks (horozontally, vertically, or diagnally) wins the game.</li>
+        <li>Incase of draw, hit restart.</li>
+
+    </ul>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
