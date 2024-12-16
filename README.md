@@ -7,6 +7,12 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
 - **Restart button**: Allows players to reset the game and play again.
 - **Instructions**:  Instructions for gameplay included on the webpage.
 ---
+## Wireframe
+
+[Untitled document.pdf](https://github.com/user-attachments/files/18157920/Untitled.document.pdf)
+
+---
+
 ##  **Technical Highlights**
 1. **DOM Manipulation**: The game shows the DOM to display player turns, the game board, and win/draw messages.
 2. **Responsive Layout**: Uses CSS Flexbox and Grid for layout design.
