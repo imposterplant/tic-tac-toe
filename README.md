@@ -9,7 +9,8 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
 ---
 ## Wireframe
 
-[Untitled document.pdf](https://github.com/user-attachments/files/18157920/Untitled.document.pdf)
+[Untitled document.pdf](https://github.com/user-attachments/files/18158031/Untitled.document.pdf)
+
 
 ---
 
