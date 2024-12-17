@@ -29,6 +29,21 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
 - **CSS**: Shows the game is visually appealing.
 - **JavaScript**: Shows game logic, player interaction, and win/draw detection.
 ---
+
+##Design Overview##
+*The project follows a minimalist and clean design:*
+
+- **Grid Layout: A 3x3 grid where each cell is interactive.**
+- **Player Symbols: 'X' and 'O' are visually styled using CSS classes:**
+*x-mark: Styles for player 'X'.*
+*o-mark: Styles for player 'O'.*
+- **Restart Button: Hidden during gameplay and shown only when the game ends (win or draw).**
+- **Header Display: Dynamically updates to show:**
+- **The current player’s turn.**
+   **The winner or a draw message.**
+
+
+
 ## **Getting Started**
 ### How to Play
 1. **Choose a player**: Player X starts the game. Player O follows.
