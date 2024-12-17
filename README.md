@@ -59,6 +59,8 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
 3. **Win condition**: The first player to align three marks in a row (horizontally, vertically, or diagonally) wins.
 4. **Restart**: Click the "Restart" button to play again.
 
+---
+
 
 
 
