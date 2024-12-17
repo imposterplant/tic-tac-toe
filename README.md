@@ -22,7 +22,7 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
    - `style.css` for styling.
    - `app.js` for game logic.
    - `data.js` for win condition patterns.
-4. **Deployed Online**: [Play Tic Tac Toe here!](#) (Insert deployment link)
+4. **Deployed Online**: https://imposterplant.github.io/tic-tac-toe/
 ---
 ## **Technologies Used**
 - **HTML**: Structure for the game.
