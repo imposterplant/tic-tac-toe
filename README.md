@@ -31,7 +31,7 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
 ---
 
 ## Design Overview
-*The project follows a minimalist and clean design:*
+
 
 - **Grid Layout: A 3x3 grid where each cell is interactive.**
 - **Player Symbols: 'X' and 'O' are visually styled using CSS classes:**
