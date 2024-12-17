@@ -30,7 +30,7 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
 - **JavaScript**: Shows game logic, player interaction, and win/draw detection.
 ---
 
-##Design Overview##
+## Design Overview
 *The project follows a minimalist and clean design:*
 
 - **Grid Layout: A 3x3 grid where each cell is interactive.**
