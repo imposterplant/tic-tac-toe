@@ -41,8 +41,16 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript. This project fulfills 
 - **Header Display: Dynamically updates to show:**
 - **The current player’s turn.**
    **The winner or a draw message.**
+---
 
+## Project Next Steps
 
+- **Improved UI/UX**
+- **Add animations for placing 'X' and 'O' (e.g., fade-in or scale effect).**
+- ** Highlight the winning combination of cells when a player wins.**
+- ** Add sound effects for clicks, wins, and restarts.**
+
+---
 
 ## **Getting Started**
 ### How to Play
